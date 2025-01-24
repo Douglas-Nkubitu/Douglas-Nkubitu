@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Frappe Developer and ERPNext Tech
 ## 🚀 About Me
 
 - 🌱 I’m currently enhancing my skills in advanced Frappe framework development.
-- 💼 I’m working as a ERPNext Techno Functional Consultant at Team Web.
+- 💼 I’m working as an ERPNext Techno Functional Consultant at Team Web.
 - 👯 I’m looking to collaborate on ERPNext and Frappe open-source projects.
 - 📫 How to reach me: [nkubitudouglas@gmail.com](mailto:nkubitudouglas@gmail.com)
 - ⚡ Fun fact: I enjoy automating business processes and improving system efficiencies.
@@ -17,7 +17,9 @@ Welcome to my GitHub profile! I'm a passionate Frappe Developer and ERPNext Tech
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
 ## 📊 GitHub Stats
 
