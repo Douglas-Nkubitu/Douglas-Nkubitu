@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Frappe Developer and ERPNext Tech
 ## 🚀 About Me
 
 - 🌱 I’m currently enhancing my skills in advanced Frappe framework development.
-- 💼 I’m working as an ERPNext Techno Functional Consultant at Team Web.
+- 💼 I’m working as an ERPNext Techno Functional Consultant at Titansoft Limited.
 - 👯 I’m looking to collaborate on ERPNext and Frappe open-source projects.
 - 📫 How to reach me: [nkubitudouglas@gmail.com](mailto:nkubitudouglas@gmail.com)
 - ⚡ Fun fact: I enjoy automating business processes and improving system efficiencies.
